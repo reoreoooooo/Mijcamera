@@ -1,0 +1,1012 @@
+pictured:668
+well done668
+capture try669
+pictured:669
+well done669
+capture try670
+pictured:670
+well done670
+capture try671
+pictured:671
+well done671
+capture try672
+pictured:672
+well done672
+capture try673
+pictured:673
+well done673
+capture try674
+pictured:674
+well done674
+capture try675
+pictured:675
+well done675
+capture try676
+pictured:676
+well done676
+capture try677
+pictured:677
+well done677
+capture try678
+pictured:678
+well done678
+capture try679
+pictured:679
+well done679
+capture try680
+pictured:680
+well done680
+capture try681
+pictured:681
+well done681
+capture try682
+pictured:682
+well done682
+capture try683
+pictured:683
+well done683
+capture try684
+pictured:684
+well done684
+capture try685
+pictured:685
+well done685
+capture try686
+pictured:686
+well done686
+capture try687
+pictured:687
+well done687
+capture try688
+pictured:688
+well done688
+capture try689
+pictured:689
+well done689
+capture try690
+pictured:690
+well done690
+capture try691
+pictured:691
+well done691
+capture try692
+pictured:692
+well done692
+capture try693
+pictured:693
+well done693
+capture try694
+pictured:694
+well done694
+capture try695
+pictured:695
+well done695
+capture try696
+pictured:696
+well done696
+capture try697
+pictured:697
+well done697
+capture try698
+pictured:698
+well done698
+capture try699
+pictured:699
+well done699
+capture try700
+pictured:700
+well done700
+capture try701
+pictured:701
+well done701
+capture try702
+pictured:702
+well done702
+capture try703
+pictured:703
+well done703
+capture try704
+pictured:704
+well done704
+capture try705
+pictured:705
+well done705
+capture try706
+pictured:706
+well done706
+capture try707
+pictured:707
+well done707
+capture try708
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred708
+rebooted708
+capture try709
+pictured:709
+well done709
+capture try710
+pictured:710
+well done710
+capture try711
+pictured:711
+well done711
+capture try712
+pictured:712
+well done712
+capture try713
+pictured:713
+well done713
+capture try714
+pictured:714
+well done714
+capture try715
+pictured:715
+well done715
+capture try716
+pictured:716
+well done716
+capture try717
+pictured:717
+well done717
+capture try718
+pictured:718
+well done718
+capture try719
+pictured:719
+well done719
+capture try720
+pictured:720
+well done720
+capture try721
+pictured:721
+well done721
+capture try722
+pictured:722
+well done722
+capture try723
+pictured:723
+well done723
+capture try724
+pictured:724
+well done724
+capture try725
+pictured:725
+well done725
+capture try726
+pictured:726
+well done726
+capture try727
+pictured:727
+well done727
+capture try728
+pictured:728
+well done728
+capture try729
+pictured:729
+well done729
+capture try730
+pictured:730
+well done730
+capture try731
+pictured:731
+well done731
+capture try732
+pictured:732
+well done732
+capture try733
+pictured:733
+well done733
+capture try734
+pictured:734
+well done734
+capture try735
+pictured:735
+well done735
+capture try736
+pictured:736
+well done736
+capture try737
+pictured:737
+well done737
+capture try738
+pictured:738
+well done738
+capture try739
+pictured:739
+well done739
+capture try740
+pictured:740
+well done740
+capture try741
+pictured:741
+well done741
+capture try742
+pictured:742
+well done742
+capture try743
+pictured:743
+well done743
+capture try744
+pictured:744
+well done744
+capture try745
+pictured:745
+well done745
+capture try746
+pictured:746
+well done746
+capture try747
+pictured:747
+well done747
+capture try748
+pictured:748
+well done748
+capture try749
+pictured:749
+well done749
+capture try750
+pictured:750
+well done750
+capture try751
+pictured:751
+well done751
+capture try752
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred752
+rebooted752
+capture try753
+pictured:753
+well done753
+capture try754
+pictured:754
+well done754
+capture try755
+pictured:755
+well done755
+capture try756
+pictured:756
+well done756
+capture try757
+pictured:757
+well done757
+capture try758
+pictured:758
+well done758
+capture try759
+pictured:759
+well done759
+capture try760
+pictured:760
+well done760
+capture try761
+pictured:761
+well done761
+capture try762
+pictured:762
+well done762
+capture try763
+pictured:763
+well done763
+capture try764
+pictured:764
+well done764
+capture try765
+pictured:765
+well done765
+capture try766
+pictured:766
+well done766
+capture try767
+pictured:767
+well done767
+capture try768
+pictured:768
+well done768
+capture try769
+pictured:769
+well done769
+capture try770
+pictured:770
+well done770
+capture try771
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred771
+rebooted771
+capture try772
+pictured:772
+well done772
+capture try773
+pictured:773
+well done773
+capture try774
+pictured:774
+well done774
+capture try775
+pictured:775
+well done775
+capture try776
+pictured:776
+well done776
+capture try777
+pictured:777
+well done777
+capture try778
+pictured:778
+well done778
+capture try779
+pictured:779
+well done779
+capture try780
+pictured:780
+well done780
+capture try781
+pictured:781
+well done781
+capture try782
+pictured:782
+well done782
+capture try783
+pictured:783
+well done783
+capture try784
+pictured:784
+well done784
+capture try785
+pictured:785
+well done785
+capture try786
+pictured:786
+well done786
+capture try787
+pictured:787
+well done787
+capture try788
+pictured:788
+well done788
+capture try789
+pictured:789
+well done789
+capture try790
+pictured:790
+well done790
+capture try791
+pictured:791
+well done791
+capture try792
+pictured:792
+well done792
+capture try793
+pictured:793
+well done793
+capture try794
+pictured:794
+well done794
+capture try795
+pictured:795
+well done795
+capture try796
+pictured:796
+well done796
+capture try797
+pictured:797
+well done797
+capture try798
+pictured:798
+well done798
+capture try799
+pictured:799
+well done799
+capture try800
+pictured:800
+well done800
+capture try801
+pictured:801
+well done801
+capture try802
+pictured:802
+well done802
+capture try803
+pictured:803
+well done803
+capture try804
+pictured:804
+well done804
+capture try805
+pictured:805
+well done805
+capture try806
+pictured:806
+well done806
+capture try807
+pictured:807
+well done807
+capture try808
+pictured:808
+well done808
+capture try809
+pictured:809
+well done809
+capture try810
+pictured:810
+well done810
+capture try811
+pictured:811
+well done811
+capture try812
+pictured:812
+well done812
+capture try813
+pictured:813
+well done813
+capture try814
+pictured:814
+well done814
+capture try815
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred815
+rebooted815
+capture try816
+pictured:816
+well done816
+capture try817
+pictured:817
+well done817
+capture try818
+pictured:818
+well done818
+capture try819
+pictured:819
+well done819
+capture try820
+pictured:820
+well done820
+capture try821
+pictured:821
+well done821
+capture try822
+pictured:822
+well done822
+capture try823
+pictured:823
+well done823
+capture try824
+pictured:824
+well done824
+capture try825
+pictured:825
+well done825
+capture try826
+pictured:826
+well done826
+capture try827
+pictured:827
+well done827
+capture try828
+pictured:828
+well done828
+capture try829
+pictured:829
+well done829
+capture try830
+pictured:830
+well done830
+capture try831
+pictured:831
+well done831
+capture try832
+pictured:832
+well done832
+capture try833
+pictured:833
+well done833
+capture try834
+pictured:834
+well done834
+capture try835
+pictured:835
+well done835
+capture try836
+pictured:836
+well done836
+capture try837
+pictured:837
+well done837
+capture try838
+pictured:838
+well done838
+capture try839
+pictured:839
+well done839
+capture try840
+pictured:840
+well done840
+capture try841
+pictured:841
+well done841
+capture try842
+pictured:842
+well done842
+capture try843
+pictured:843
+well done843
+capture try844
+pictured:844
+well done844
+capture try845
+pictured:845
+well done845
+capture try846
+pictured:846
+well done846
+capture try847
+pictured:847
+well done847
+capture try848
+pictured:848
+well done848
+capture try849
+pictured:849
+well done849
+capture try850
+pictured:850
+well done850
+capture try851
+pictured:851
+well done851
+capture try852
+pictured:852
+well done852
+capture try853
+pictured:853
+well done853
+capture try854
+pictured:854
+well done854
+capture try855
+pictured:855
+well done855
+capture try856
+pictured:856
+well done856
+capture try857
+pictured:857
+well done857
+capture try858
+pictured:858
+well done858
+capture try859
+pictured:859
+well done859
+capture try860
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred860
+rebooted860
+capture try861
+pictured:861
+well done861
+capture try862
+pictured:862
+well done862
+capture try863
+pictured:863
+well done863
+capture try864
+pictured:864
+well done864
+capture try865
+pictured:865
+well done865
+capture try866
+pictured:866
+well done866
+capture try867
+pictured:867
+well done867
+capture try868
+pictured:868
+well done868
+capture try869
+pictured:869
+well done869
+capture try870
+pictured:870
+well done870
+capture try871
+pictured:871
+well done871
+capture try872
+pictured:872
+well done872
+capture try873
+pictured:873
+well done873
+capture try874
+pictured:874
+well done874
+capture try875
+pictured:875
+well done875
+capture try876
+pictured:876
+well done876
+capture try877
+pictured:877
+well done877
+capture try878
+pictured:878
+well done878
+capture try879
+pictured:879
+well done879
+capture try880
+pictured:880
+well done880
+capture try881
+pictured:881
+well done881
+capture try882
+pictured:882
+well done882
+capture try883
+pictured:883
+well done883
+capture try884
+pictured:884
+well done884
+capture try885
+pictured:885
+well done885
+capture try886
+pictured:886
+well done886
+capture try887
+pictured:887
+well done887
+capture try888
+pictured:888
+well done888
+capture try889
+pictured:889
+well done889
+capture try890
+pictured:890
+well done890
+capture try891
+pictured:891
+well done891
+capture try892
+pictured:892
+well done892
+capture try893
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred893
+rebooted893
+capture try894
+pictured:894
+well done894
+capture try895
+pictured:895
+well done895
+capture try896
+pictured:896
+well done896
+capture try897
+pictured:897
+well done897
+capture try898
+pictured:898
+well done898
+capture try899
+pictured:899
+well done899
+capture try900
+pictured:900
+well done900
+capture try901
+pictured:901
+well done901
+capture try902
+pictured:902
+well done902
+capture try903
+pictured:903
+well done903
+capture try904
+pictured:904
+well done904
+capture try905
+pictured:905
+well done905
+capture try906
+pictured:906
+well done906
+capture try907
+pictured:907
+well done907
+capture try908
+pictured:908
+well done908
+capture try909
+pictured:909
+well done909
+capture try910
+pictured:910
+well done910
+capture try911
+pictured:911
+well done911
+capture try912
+pictured:912
+well done912
+capture try913
+pictured:913
+well done913
+capture try914
+pictured:914
+well done914
+capture try915
+pictured:915
+well done915
+capture try916
+pictured:916
+well done916
+capture try917
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+----------------------------------------------------
+error occurred917
+rebooted917
+capture try918
+pictured:918
+well done918
+capture try919
+pictured:919
+well done919
+capture try920
+pictured:920
+well done920
+capture try921
+pictured:921
+well done921
+capture try922
+pictured:922
+well done922
+capture try923
+pictured:923
+well done923
+capture try924
+pictured:924
+well done924
+capture try925
+pictured:925
+well done925
+capture try926
+pictured:926
+well done926
+capture try927
+pictured:927
+well done927
+capture try928
+pictured:928
+well done928
+capture try929
+pictured:929
+well done929
+capture try930
+pictured:930
+well done930
+capture try931
+pictured:931
+well done931
+capture try932
+pictured:932
+well done932
+capture try933
+pictured:933
+well done933
+capture try934
+pictured:934
+well done934
+capture try935
+pictured:935
+well done935
+capture try936
+pictured:936
+well done936
+capture try937
+pictured:937
+well done937
+capture try938
+pictured:938
+well done938
+capture try939
+pictured:939
+well done939
+capture try940
+pictured:940
+well done940
+capture try941
+pictured:941
+well done941
+capture try942
+pictured:942
+well done942
+capture try943
+pictured:943
+well done943
+capture try944
+pictured:944
+well done944
+capture try945
+pictured:945
+well done945
+capture try946
+pictured:946
+well done946
+capture try947
+pictured:947
+well done947
+capture try948
+pictured:948
+well done948
+capture try949
+pictured:949
+well done949
+capture try950
+pictured:950
+well done950
+capture try951
+pictured:951
+well done951
+capture try952
+pictured:952
+well done952
+capture try953
+pictured:953
+well done953
+capture try954
+pictured:954
+well done954
+capture try955
+pictured:955
+well done955
+capture try956
+pictured:956
+well done956
+capture try957
+pictured:957
+well done957
+capture try958
+pictured:958
+well done958
+capture try959
+pictured:959
+well done959
+capture try960
+pictured:960
+well done960
+capture try961
+pictured:961
+well done961
+capture try962
+pictured:962
+well done962
+capture try963
+pictured:963
+well done963
+capture try964
+pictured:964
+well done964
+capture try965
+pictured:965
+well done965
+capture try966
+pictured:966
+well done966
+capture try967
+pictured:967
+well done967
+capture try968
+pictured:968
+well done968
+capture try969
+pictured:969
+well done969
+capture try970
+pictured:970
+well done970
+capture try971
+pictured:971
+well done971
+capture try972
+pictured:972
+well done972
+capture try973
+pictured:973
+well done973
+capture try974
+pictured:974
+well done974
+capture try975
+pictured:975
+well done975
+capture try976
+pictured:976
+well done976
+capture try977
+pictured:977
+well done977
+capture try978
+pictured:978
+well done978
+capture try979
+pictured:979
+well done979
+capture try980
+pictured:980
+well done980
+capture try981
+pictured:981
+well done981
+capture try982
+pictured:982
+well done982
+capture try983
+pictured:983
+well done983
+capture try984
+pictured:984
+well done984
+capture try985
+pictured:985
+well done985
+capture try986
+pictured:986
+well done986
+capture try987
+pictured:987
+well done987
+capture try988
+pictured:988
+well done988
+capture try989
+pictured:989
+well done989
+capture try990
+pictured:990
+well done990
+capture try991
+pictured:991
+well done991
+capture try992
+pictured:992
+well done992
+capture try993
+pictured:993
+well done993
+capture try994
+pictured:994
+well done994
+capture try995
+pictured:995
+well done995
+capture try996
+pictured:996
+well done996
+capture try997
+pictured:997
+well done997
+capture try998
+pictured:998
+well done998
+capture try999
+pictured:999
+well done999
+capture try1000
+pictured:1000
+well done1000

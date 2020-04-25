@@ -1,0 +1,7 @@
+[ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (998) tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+Traceback (most recent call last):
+  File "/home/kuchida/mij/test python/test2.py", line 53, in <module>
+    save_frame_camera_key(0, 'data/temp', 'camera_capture')
+  File "/home/kuchida/mij/test python/test2.py", line 42, in save_frame_camera_key
+    cv2.imshow(window_name, frame)
+cv2.error: OpenCV(4.2.0) /io/opencv/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
